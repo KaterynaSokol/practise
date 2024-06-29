@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "practise",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/dummyjson-tasks/",
+    "build": "vite build --base=/practise/",
     "preview": "vite preview"
   },
   "devDependencies": {
